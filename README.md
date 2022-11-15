@@ -1,3 +1,3 @@
 # Colocar.degrade
-Como colocar degradê em sites. 
-Como colocar degradê no seu site usando CSS E HTML. 
+Como colocar degrade em sites. 
+Como colocar degrade no seu site usando CSS E HTML. 
